@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar</h1>
-<h3 align="center">I'm a Full Stack Developer.</h3>
+<h3 align="center">I'm a front end Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **omar00nasr00@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
