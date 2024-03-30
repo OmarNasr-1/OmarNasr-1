@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://drive.google.com/file/d/1ZonxC89tnA5X2JQkczLLhlBi0-jLg-jO/view?usp=drive_link)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://drive.google.com/file/d/1ZonxC89tnA5X2JQkczLLhlBi0-jLg-jO/view?usp=drive_link" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar</h1>
 <h3 align="center">I'm a front end Developer.</h3>
