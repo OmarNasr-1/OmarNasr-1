@@ -1,25 +1,25 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar</h1>
-<h3 align="center">I'm a front end Developer.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Data Structures , Algorithms and Backend Development.**
-
-- 📫 How to reach me **omar00nasr00@gmail.com**
-
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://html.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a> 
-    <a href="http://www.cplusplus.org/" target="_blank"> <img _ngcontent-c1="" <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
+<a href="#"><img width="100%" height="auto" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></a>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar</h1>
+<p>
+-Fullstack Developer Proficient in React, Next.js,directus.io and DevOps practices to deliver seamless front-end experiences and robust back-end solutions. </br>
+-managing end-to-end development processes, from UI/UX design to server-side architecture.
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+
+## 🚀 Tech Stack:
+
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=white&logo=next.js&logoColor=000000)](#)
+[![Directus Badge](https://img.shields.io/badge/-Directus-8866ff?style=for-the-badge&labelColor=black&logo=directus&logoColor=8866ff)](#)
+[![DevOps Badge](https://img.shields.io/badge/-DevOps-007ACC?style=for-the-badge&labelColor=black&logo=azuredevops&logoColor=ffffff)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&labelColor=black&logo=npm&logoColor=CB3837)](#)
+
+
 <br/>
 
 <p align="center">
