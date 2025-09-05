@@ -40,7 +40,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/OmarNasr-1/github-readme-activity-graph"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OmarNasr-1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" />
+
 
 <br/>
 <br/>
@@ -59,3 +60,6 @@
     <img src="https://komarev.com/ghpvc/?username=OmarNasr-1">
 </a>
 <a href="https://github.com/OmarNasr-1?tab=followers"><img src="https://img.shields.io/github/followers/OmarNasr-1?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
