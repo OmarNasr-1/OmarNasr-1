@@ -23,9 +23,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/OmarNasr-1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarNasr-1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OmarNasr-1&exclude_days=Fri" alt="GitHub Streak" /></a>
 </p>
 
 ## 📊 My Github Stats
